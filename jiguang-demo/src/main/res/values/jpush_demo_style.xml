@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+   <style name="jpush_demo_push_style">
+		<item name="android:hint">@string/jpush_demo_style_hint</item>
+		<item name="android:inputType">number</item>
+		<item name="android:textSize">14sp</item>
+	</style>
+	<style name="jpush_demo_push_alias">
+		<item name="android:hint">@string/jpush_demo_alias_hint</item>
+		<item name="android:textSize">14sp</item>
+	</style>
+	<style name="jpush_demo_push_mobilenumber">
+		<item name="android:hint">@string/jpush_demo_mobilenumber_hint</item>
+		<item name="android:textSize">14sp</item>
+	</style>
+	<style name="jpush_demo_push_tag">
+		<item name="android:hint">@string/jpush_demo_tag_hint</item>
+		<item name="android:textSize">14sp</item>
+	</style>
+</resources>
